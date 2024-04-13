@@ -1,0 +1,29 @@
+.logo {
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(26, 28, 90);
+    /* padding-left: 2%; */
+}
+
+.menubar {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(26, 28, 90);
+    text-decoration: none;
+    /* padding-right: 5%; */
+}
+
+.heading {
+    /* font-size: large; */
+    /* font-family: 'Times New Roman', Times, serif; */
+    color: #37650e;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.paragraph {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(66, 61, 54);
+}
